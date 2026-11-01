@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanmaurya39/amanmaurya39/main/banner.svg" width="100%" alt="Aman Maurya banner" />
+  <img src="./gemini-svg.svg" width="100%" alt="Aman Maurya Banner" />
 </p>
 
 <p align="center">
@@ -22,14 +22,14 @@
 
 ## About Me. 😊
 
-- 🎓 2nd Year B.Tech CSE – **AI & Data Engineering** Student
+- 🎓 3rd Year B.Tech CSE – **AI & Data Engineering** Student
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🐍 Exploring **Python** and **Data Engineering**
 - ☁️ Learning **AWS** and **Microsoft Azure**
 - 🚀 Building projects and solving real-world problems
 - 💡 Always curious to learn new technologies
 - 🤝 Looking to collaborate on AI/ML and web projects
-- 📫 How to reach me: **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me: **maurya.aman.3952@gmail.com**
 
 > ✨ *"It's all about creativity & problem solving."*
 
@@ -62,47 +62,16 @@
 | Project | Description |
 |---|---|
 | 📚 [Talk To Your Textbook](https://github.com/amanmaurya39/Talk-to-your-textbook) | RAG-based PDF question-answering application |
-| 🧠 [MindSync-AI](https://github.com/amanmaurya39/MindSync-AI) | AI-based project |
-| 🤖 [TRM-AI](https://github.com/amanmaurya39/TRM-AI) | Artificial Intelligence project |
+| 🧠 [MindSync-AI](https://github.com/amanmaurya39/MindSync-AI) | AI-based Tutor System |
+| 🤖 [TRM-AI](https://github.com/amanmaurya39/TRM-AI) | AI based Transaction Risk Manager|
 | 🍕 [PizzaPie](https://amanmaurya39.github.io/PizzaPie/) | Frontend web development project |
 | 💻 [CPU Scheduler](https://amanmaurya39.github.io/Intelligent-CPU-Scheduler-Simulator/) | Intelligent CPU scheduling simulator |
 
----
 
-## 📊 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanmaurya39&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=amanmaurya39&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmaurya39&theme=tokyonight&hide_border=true&layout=compact" />
-  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=amanmaurya39&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanmaurya39&theme=discord&no-frame=true&margin-w=5" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amanmaurya39/amanmaurya39/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
 <p align="center"><b>✨ Thanks for visiting my GitHub profile! ✨</b></p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amanmaurya39&icon=0&color=5" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d946ef,50:6a11cb,100:09051d&height=120&section=footer" width="100%" />
